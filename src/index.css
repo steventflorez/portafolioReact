@@ -113,6 +113,24 @@ a:hover{
     color: var(--color-bg);
 }
 
+.btn_what{
+    width: 200px;
+    height: 50px;
+    background-color: #4CE71E;
+    color: #fff;
+    border-radius: 20px;
+    text-align: center;
+
+}
+
+.btn_container{
+    display: flex;
+    justify-content: center;
+}
+#contact{
+    height: 400px;
+}
+
 img{
     display: block;
     width: 100%;

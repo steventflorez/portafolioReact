@@ -17,29 +17,26 @@ export const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, fugit.</p>
+              <p>Maquetacion de paginas Web con Illustrator, AdoveXD, con estandares de diseño.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, fugit.</p>
+              <p>Creacion de logos, y modelado de marcas.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, fugit.</p>
+              <p>Estrategias de CEO y Marketing </p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, fugit.</p>
+              <p>Creacion de piezas publicitarias y piezas para redes sociales.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, fugit.</p>
+              <p>Diseño de Redes Sociales.</p>
             </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, fugit.</p>
-            </li>
+           
           </ul>
         </article>
         {/*END OF UI/UX */}
@@ -51,34 +48,31 @@ export const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, fugit.</p>
+              <p>Creacion de Paginas Web modernas y robustas con tecnologias ponentes del mercado.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, fugit.</p>
+              <p>Manejo de base de Datos y manejo y creacion de APIS.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, fugit.</p>
+              <p>Aplicaciones Web Responsivas para movil y tablet.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, fugit.</p>
+              <p>Migracion y creacion de aplicaciones moviles.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, fugit.</p>
+              <p>Automatizacion de proyectos con WebScraping</p>
             </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, fugit.</p>
-            </li>
+            
           </ul>
         </article>
 
         {/* WEB DEVELOPEMET */}
-        <article className='service'>
+        {/* <article className='service'>
           <div className="service__head">
             <h3>Content Creation</h3>
           </div>
@@ -110,7 +104,7 @@ export const Services = () => {
               <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, fugit.</p>
             </li>
           </ul>
-        </article>
+        </article> */}
         {/*END OF CONTENT CREATION*/}
 
       </div>

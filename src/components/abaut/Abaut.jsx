@@ -1,6 +1,7 @@
 import React from 'react'
 import './abaut.css'
 import ME from '../../assets/me-about.jpg'
+import YO from '../../assets/yo.jpeg'
 import { FaAward } from 'react-icons/fa'
 import { FiUsers } from 'react-icons/fi'
 import { VscFolderLibrary } from 'react-icons/vsc'
@@ -14,7 +15,7 @@ export const Abaut = () => {
       <div className='container about__container'>
         <div className="about__me">
           <div className="about__me-image">
-            <img src={ME} alt="About Image" />
+            <img src={YO  } alt="About Image" />
           </div>
         </div>
 
@@ -29,18 +30,19 @@ export const Abaut = () => {
             <article className='about__card'>
               <FiUsers className='about__icon' />
               <h5>Clients</h5>
-              <small>200+ Workide</small>
+              <small>20+ Workide</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
               <h5>Projects</h5>
-              <small>80+ Complited Proyects</small>
+              <small>19+ Complited Proyects</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut quod repellat autem corrupti non sit fuga
-            mollitia doloremque sapiente! Maiores nostrum laudantium enim neque iure obcaecati, alias similique dolore quae.
+          Programador Full Stack con experiencia y liderazgo en creación de proyectos, con un alto compromiso en trabajo individual y 
+            en equipo, con Abilidades en diferentes áreas del mundo de las tecnologías, con la capacidad de aportar un amplio valor
+            a los proyectos empresariales.
           </p>
 
           <a href="#contact" className='btn btn-primary'> Let´s Talk</a>
